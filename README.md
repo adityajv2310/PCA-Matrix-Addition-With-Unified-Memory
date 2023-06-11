@@ -20,6 +20,10 @@ Step 5 :
 Execute the program and run the terminal . Check the performance using nvprof.
 
 # Program:
+```
+Developed by: Aditya JV
+Reg.NO: 212220230002
+```
 ``` c
 #include <stdio.h>
 #include <cuda.h>
